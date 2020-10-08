@@ -18,10 +18,11 @@
 <br/>
 
 ****
-<img width="200" alt="Screen Shot 2020-10-07 at 9 24 21 PM" src="https://user-images.githubusercontent.com/68092946/95404854-32a26000-08e4-11eb-9d08-d49a942066f3.png">
-
+<p align="center">
+<img width="200" alt="Screen Shot 2020-10-07 at 9 24 21 PM" src="https://user-images.githubusercontent.com/68092946/95404854-32a26000-08e4-11eb-9d08-d49a942066f3.png"></p>
+<p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-Alessandra%20Burckhalter-b0eacd?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/alessandra-burckhalter/)](https://www.linkedin.com/in/alessandra-burckhalter/)
-[![Gmail Badge](https://img.shields.io/badge/-ale.lptc@gmail.com-b0eacd?style=flat-square&logo=Gmail&logoColor=black&link=mailto:ale.lptc@gmail.com)](mailto:ale.lptc@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ale.lptc@gmail.com-b0eacd?style=flat-square&logo=Gmail&logoColor=black&link=mailto:ale.lptc@gmail.com)](mailto:ale.lptc@gmail.com)</p>
 
 
 <!--
