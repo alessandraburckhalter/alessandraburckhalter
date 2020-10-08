@@ -11,7 +11,6 @@
 
 ****
 <img width="200" alt="Screen Shot 2020-10-07 at 9 28 37 PM" src="https://user-images.githubusercontent.com/68092946/95404840-26b69e00-08e4-11eb-8fbd-099df23bffce.png">
-
 <a href="https://github.com/AVS1508">
   <img height="170em" width="350em" src="https://github-readme-stats.vercel.app/api?username=alessandraburckhalter&theme=vue&show_icons=true" />
   <img height="170em" width="350em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandraburckhalter&theme=vue&layout=compact" />
