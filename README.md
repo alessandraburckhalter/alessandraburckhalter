@@ -1,6 +1,6 @@
 
 
-<img width="251" alt="Screen Shot 2020-10-07 at 8 16 08 PM" src="https://user-images.githubusercontent.com/68092946/95401017-24e7dd00-08da-11eb-9887-a7b30e6032a4.png">
+<img width="250" alt="Screen Shot 2020-10-07 at 8 16 08 PM" src="https://user-images.githubusercontent.com/68092946/95401017-24e7dd00-08da-11eb-9887-a7b30e6032a4.png">
 
 - 👩🏽‍💻 I'm a front-end developer.<br>
 - 📚 I'm currently enrolled in a full stack web development program at DigitalCrafts.<br>
@@ -11,6 +11,7 @@
 
 ****
 <img width="200" alt="Screen Shot 2020-10-07 at 9 28 37 PM" src="https://user-images.githubusercontent.com/68092946/95404840-26b69e00-08e4-11eb-8fbd-099df23bffce.png">
+
 <a href="https://github.com/AVS1508">
   <img height="170em" width="350em" src="https://github-readme-stats.vercel.app/api?username=alessandraburckhalter&theme=vue&show_icons=true" />
   <img height="170em" width="350em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandraburckhalter&theme=vue&layout=compact" />
