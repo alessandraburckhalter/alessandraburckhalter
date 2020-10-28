@@ -7,7 +7,7 @@
 - 😍 I am passionate about coding.<br>
 - 💡 Creativity is one of my best qualities.<br>
 - 🌟 I love to learn and contribute in many ways.<br>
-- 🤓 I'm bilingual in spoken languages, and multilingual in programming languages.<br>
+- 🤓 I'm bilingual in spoken languages, and multilingual in programming languages. <br>
 
 ****
 <img width="200" alt="Screen Shot 2020-10-07 at 9 28 37 PM" src="https://user-images.githubusercontent.com/68092946/95404840-26b69e00-08e4-11eb-8fbd-099df23bffce.png">
